@@ -2,7 +2,7 @@
 
 ![Logo da company klever](https://klever.finance/wp-content/uploads/2021/10/klever-exchange-logo.png)
 
-![Project Screenshot](https://raw.githubusercontent.com/marcioalvesjun/finance-management/master/src/public/project-screenshot.png)
+![Project Screenshot](https://raw.githubusercontent.com/marcioalvesjun/finance-management/master/public/project-screenshot.png)
 
 # Description of project
 
