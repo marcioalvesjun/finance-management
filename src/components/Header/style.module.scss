@@ -1,0 +1,12 @@
+.container {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+
+  button {
+    border-radius: 2rem;
+    font-size: 0.875rem;
+    padding: 0.25rem 1.25rem;
+  }
+}
